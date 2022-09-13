@@ -1,2 +1,2 @@
 # passengerinfoAPI
-A simple passenger information RESTful API
+A simple passenger information RESTful API.
