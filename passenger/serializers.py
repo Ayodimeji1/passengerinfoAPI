@@ -1,5 +1,5 @@
-from rest_framework import ModelSerializer
-from Passenger import models
+from rest_framework import serializers
+from passenger.models import Passenger
 
 
 class PassengerSerializer(serializers.ModelSerializer):
